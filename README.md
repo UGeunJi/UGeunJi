@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @UGeunJi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m UGeunJi
+- 👀 I’m interested in AI, crypto currency, sports, playing the piano, reading books and English conversation.
+- 🌱 I’m currently learning SQL, Python, Algorithms and Data Structure.
+- 💞️ I’m looking to collaborate on any other student studying AI.
+- 📫 How to reach me +82 010-4563-8147 or ajtwlsdnrms@naver.com
 
 <!---
 UGeunJi/UGeunJi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
