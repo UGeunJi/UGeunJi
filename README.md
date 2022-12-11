@@ -1,5 +1,5 @@
 - 👋 Hi, I’m UGeunJi
-- 🌱 I’m currently learning SQL, Python, Algorithms, Data Structure and Data Analysis.
+- 🌱 I’m currently learning SQL, Python, Algorithms, Data Structure, Data Analysis and Machine Learning.
 - 💞️ I’m looking to collaborate on any other student studying AI.
 - 📫 How to reach me +82 010-4563-8147 or [![Gmail Badge](https://img.shields.io/badge/Naver-D14836?style=flat&logo=naver&logoColor=white)](mailto:ajtwlsdnrms@naver.com)
 
