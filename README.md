@@ -4,8 +4,9 @@
 - 📫 How to reach me +82 010-4563-8147 or [![Naver Badge](https://img.shields.io/badge/Naver-D14836?style=flat&logo=naver&logoColor=white)](mailto:ajtwlsdnrms@naver.com)
 
 
-
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&hide=jupyter%20notebook&layout=compact)](https://github.com/UGeunJi/github-readme-stats)
+--->
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&theme=great-gatsby&show_icons=true)
