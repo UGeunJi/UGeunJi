@@ -3,7 +3,7 @@
 - 👋 Hi, I’m UGeunJi
 - 🌱 I’m currently learning Python, Algorithms, Data Structure, CNN and HTML.
 - 💞️ I’m looking to collaborate on any other student studying AI.
-- 📫 How to reach me +82 010-4563-8147 or [![Google Badge](https://img.shields.io/badge/Google-D14836?style=flat&logo=google&logoColor=white)](mailto:ajtwlsdnrms@gmail.com)
+- 📫 How to reach me [![Google Badge](https://img.shields.io/badge/Google-D14836?style=flat&logo=google&logoColor=white)](mailto:ajtwlsdnrms@gmail.com)
 
 
 <html lang="en">
