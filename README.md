@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
         
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&text=Purgatorio&fontSize=30&fontColor=C71585)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&text=AI_Developer&fontSize=30&fontColor=FFDAB9)
    </div>
 </head>
 </html>
