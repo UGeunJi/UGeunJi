@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=00FFFF&height=350&section=header&text=UGeunJi&fontSize=80)<br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=F0FFFF&height=350&section=header&text=UGeunJi&fontSize=80)<br>
 
 <!DOCTYPE html>
 <html lang = "en">
