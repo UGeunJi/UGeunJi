@@ -30,7 +30,9 @@
 
 <br><br>
         
-![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=solarized-light)
+![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=Gradient)
+<!--         
+![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=Gradient) -->
 
 <!---
 UGeunJi/UGeunJi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
