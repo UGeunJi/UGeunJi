@@ -29,7 +29,7 @@
 
 <br>
         
-![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=Gradient)
+![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
 <!--         
 ![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=Gradient) -->
 
