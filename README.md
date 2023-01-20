@@ -27,11 +27,15 @@
 
 <br>
         
-![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&custom_title=My&nbsp;Language&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/UGeunJi/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=UGeunJi)](https://github.com/ryo-ma/github-profile-trophy)
+---        
 <br>
         
+![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
+[![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&custom_title=My&nbsp;Language&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/UGeunJi/github-readme-stats)
+
+<br>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&text=AI_Researcher&fontSize=30&fontColor=FFDAB9)
    </div>
 </head>
