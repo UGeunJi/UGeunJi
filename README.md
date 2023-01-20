@@ -25,18 +25,11 @@
         
 [![Google Badge](https://img.shields.io/badge/Google-D14836?style=flat&logo=google&logoColor=white)](mailto:ajtwlsdnrms@gmail.com)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&hide=jupyter%20notebook&layout=compact)](https://github.com/UGeunJi/github-readme-stats) -->
-
 <br>
         
 ![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
-<!--         
-![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=Gradient) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&custom_title=My&nbsp;Language&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/UGeunJi/github-readme-stats)
 
-<!---
-UGeunJi/UGeunJi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <br>
         
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&text=AI_Researcher&fontSize=30&fontColor=FFDAB9)
