@@ -32,7 +32,7 @@
 <br>
         
 ![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
-[![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&custom_title=My&nbsp;Language&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/UGeunJi/github-readme-stats)
+[![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/UGeunJi/github-readme-stats)
 
 <br>
 
