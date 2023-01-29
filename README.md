@@ -14,7 +14,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-7B68EE?style=flat&logo=MySQL&logoColor=black"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-FFEBCD?style=flat&logo=OpenCV&logoColor=black"/></a>
-<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/C-98FB98?style=flat&logo=C&logoColor=blue"/></a>        
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/C-98FB98?style=flat&logo=C&logoColor=blue"/></a><br>
+<a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=blue"/></a>  
 
 <br>
         
