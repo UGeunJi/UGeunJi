@@ -15,7 +15,10 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-FFEBCD?style=flat&logo=OpenCV&logoColor=black"/></a>
 <a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/C-98FB98?style=flat&logo=C&logoColor=blue"/></a><br>
-<a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=blueviolet"/></a>  
+<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> 
+<a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"/></a> 
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=blueviolet"/></a>  
+<a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=yellow"/></a>  
 
 <br>
         
