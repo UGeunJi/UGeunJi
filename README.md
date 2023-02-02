@@ -22,7 +22,7 @@
 
 <br>
         
-
+---
  
 <br>        
 <h3>:email: If you want to reach me, please click this badge.</h3>
@@ -37,13 +37,20 @@
         
 ![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
 [![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/UGeunJi/github-readme-stats)
+        
+--- 
+        
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=UGeunJi)](https://solved.ac/UGeunJi/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=UGeunJi&theme=cold)
+        
+<h3>[Programmers Score] 23/02/02</h3>     
+        
+![image](https://user-images.githubusercontent.com/84713532/216210621-a62a872f-03b7-4d7a-91f7-9d6fe7fcd867.png)
 
+     
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer&text=AI_Researcher&fontSize=30&fontColor=FFDAB9)
    </div>
 </head>
 </html>
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=UGeunJi)](https://solved.ac/UGeunJi/) -->
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=UGeunJi&theme=cold) -->
