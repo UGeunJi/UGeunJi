@@ -40,8 +40,8 @@
         
 --- 
         
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=UGeunJi)](https://solved.ac/UGeunJi/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=UGeunJi&theme=cold)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajtwlsdnrms)](https://solved.ac/ajtwlsdnrms/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ajtwlsdnrms&theme=cold)
         
 <h3>[Programmers Score] 23/02/02</h3>     
         
