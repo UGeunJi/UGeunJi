@@ -31,7 +31,7 @@
 
 <br>
         
-[![trophy](https://github-profile-trophy.vercel.app/?username=UGeunJi&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=UGeunJi&theme=juicyfresh)](https://github.com/ryo-ma&no-bg=true/github-profile-trophy)
 ---        
 <br>
         
