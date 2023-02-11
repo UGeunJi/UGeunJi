@@ -11,14 +11,20 @@
         
         
 <h2>:hammer: My Tech 🖥️: </h2><br><br>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-7B68EE?style=flat&logo=MySQL&logoColor=black"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-FFEBCD?style=flat&logo=OpenCV&logoColor=black"/></a>
-<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/C-98FB98?style=flat&logo=C&logoColor=blue"/></a><br>
-<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a> 
-<a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"/></a> 
-<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=blueviolet"/></a>  
-<a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=yellow"/></a>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FFA200?style=flat&logo=Tensorflow&logoColor="/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor="/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-8DD6F9?style=flat&logo=Python&logoColor="/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor="/></a><br>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-9999FF?style=flat&logo=MySQL&logoColor="/></a>
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/C-98FB98?style=flat&logo=C&logoColor="/></a><br>
+<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/HTML5-DDE072?style=flat&logo=HTML5&logoColor="/></a> 
+<a href="https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor="/></a> 
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-29F1FB?style=flat&logo=JavaScript&logoColor="/></a>  
+<a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-3DDC84?style=flat&logo=Streamlit&logoColor="/></a><br>
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor="/></a>
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor="/></a>
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-F9DC3E?style=flat&logo=Discord&logoColor="/></a>
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Kakaotalk-6F02B5?style=flat&logo=Kakaotalk&logoColor="/></a>
 
 <br>
         
