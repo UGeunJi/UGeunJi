@@ -30,6 +30,9 @@
 <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>
 <a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"/></a><br>
         
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Catia-0B53CE?style=flat&logo=Catia&logoColor=white"/></a>
+<a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Mimics-0094F5?style=flat&logo=Mimics&logoColor=white"/></a><br>
+        
 <a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 <a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
