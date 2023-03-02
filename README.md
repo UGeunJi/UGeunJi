@@ -62,7 +62,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajtwlsdnrms)](https://solved.ac/ajtwlsdnrms/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ajtwlsdnrms&theme=cold)
         
-<h3>[Programmers Score] 23/02/16</h3>     
+<h3>[Programmers Score]</h3>     
         
 ![image](https://user-images.githubusercontent.com/84713532/219276418-1ce49188-86b9-4898-9589-f64e3a2be642.png)
 
