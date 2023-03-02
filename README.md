@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUGeunJi%2Fhit-counter&count_bg=%235EB6C8&title_bg=%23E3CBCB&icon=&icon_color=%23ACE6E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
         
 <br>
-        
+<!-- badge  https://simpleicons.org/ -->
         
 <h2>:hammer: My Tech 🖥️: </h2><br><br>
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/></a>
@@ -28,6 +28,7 @@
         
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Googlecolab-F9AB00?style=flat&logo=Googlecolab&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"/></a><br>
         
 <a href="https://www.autodesk.co.kr/campaigns/best-selling-cad-software?mktvar002=5019315|SEM|19327363339|148201729321|kwd-129823800&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_ACAD_AutoCAD_APAC_KR_Trials_SEM_COM_NA_EX_0009_5019315&utm_id=5019315&utm_term=kwd-129823800&mkwid=s|pcrid|642238092419|pkw|catia|pmt|e|pdv|c|slid||pgrid|148201729321|ptaid|kwd-129823800|pid|&utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=catia&utm_content=s|pcrid|642238092419|pkw|catia|pmt|e|pdv|c|slid||pgrid|148201729321|ptaid|kwd-129823800|&gclid=CjwKCAiAl9efBhAkEiwA4TorigVJewgZlZFxSgXSKn-eZc73oQrq_Se-hCbt9S739DnCfuDIpRuYgxoCCbUQAvD_BwE&ef_id=Y0zvKgAAAKMvGwN7:20230222113349:s" target="_blank"><img src="https://img.shields.io/badge/Catia-0B53CE?style=flat&logo=Catia&logoColor=white"/></a>
