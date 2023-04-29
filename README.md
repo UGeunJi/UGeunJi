@@ -65,7 +65,7 @@
         
 <h3>[Programmers Score]</h3>     
         
-![image](https://user-images.githubusercontent.com/84713532/235077728-3a0aa913-8ddf-4a90-af02-8a43a363e8ff.png)
+![image](https://user-images.githubusercontent.com/84713532/235297583-4b574cb4-7669-4d34-9abb-2c925efb32fe.png)
      
 <br>
 
