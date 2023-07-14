@@ -45,7 +45,7 @@
 ---
  
 <br>        
-<h3>:email: If you want to reach me, please click this badge.</h3>
+<h3>:email: Contact</h3>
         
 [![Google Badge](https://img.shields.io/badge/Google-D14836?style=flat&logo=google&logoColor=white)](mailto:ajtwlsdnrms@gmail.com)
 
