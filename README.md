@@ -5,7 +5,7 @@
 <head>
     <div align = "center">
         
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUGeunJi%2Fhit-counter&count_bg=%235EB6C8&title_bg=%23E3CBCB&icon=&icon_color=%23ACE6E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoogeun-Ji%2Fhit-counter&count_bg=%235EB6C8&title_bg=%23E3CBCB&icon=&icon_color=%23ACE6E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
         
 <br>
 <!-- badge  https://simpleicons.org/ -->
@@ -51,12 +51,12 @@
 
 <br>
         
-[![trophy](https://github-profile-trophy.vercel.app/?username=UGeunJi&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Woogeun-Ji&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ---        
 <br>
         
-![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=UGeunJi&show_icons=true&theme=gruvbox_light )
-[![UGeunJi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UGeunJi&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/UGeunJi/github-readme-stats)
+![WoogeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoogeunJi&show_icons=true&theme=gruvbox_light )
+[![WoogeunJi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogeunJi&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/WoogeunJi/github-readme-stats)
         
 --- 
         
