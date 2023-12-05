@@ -55,8 +55,8 @@
 ---        
 <br>
         
-![WoogeunJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoogeunJi&show_icons=true&theme=gruvbox_light )
-[![WoogeunJi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogeunJi&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/WoogeunJi/github-readme-stats)
+![Woogeun-Ji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woogeun-Ji&show_icons=true&theme=gruvbox_light )
+[![Woogeun-Ji's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Woogeun-Ji&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light&show_icons=true)](https://github.com/Woogeun-Ji/github-readme-stats)
         
 --- 
         
